@@ -6,3 +6,4 @@
 
 # copies mover.sh (later also txt-pdf.sh) into /bin
 sudo cp ./mover.sh /bin/mover
+sudo chmod +x /bin/mover
